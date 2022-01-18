@@ -1,6 +1,8 @@
 #include<stdio.h>
+#khong include gi ca
 #include<conio.h>
 #linh sua o day
+# Tuan Sua
 int main(){
 	float a,b;
 	printf("Do C :");

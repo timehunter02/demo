@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+#linh sua o day
 int main(){
 	float a,b;
 	printf("Do C :");

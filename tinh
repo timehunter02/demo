@@ -1,5 +1,6 @@
 #include<stdio.h>
 #khong include gi ca
+#include<conio.h>
 int main(){
 	float a,b;
 	printf("Do C :");
